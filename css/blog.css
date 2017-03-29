@@ -172,7 +172,7 @@ img.inline.pull-right {
 }
 
 img.inline.pull-left {
-  margin-right: 100px;
+  margin-right: 1em;
   max-width: 50%;
 }
 
@@ -649,7 +649,7 @@ img.inline.pull-right {
 }
 
 img.inline.pull-left {
-    margin-right: 100px;
+    margin-right: 1em;
     max-width: 50%;
 }
 
