@@ -1,8 +1,13 @@
-title: Yong Yuan
+title: Mo Shan
+
+description: Computer vision researcher
+
+#url: http://shanmo.github.io/
+url: http://localhost:4000
 
 # 自定义post url
 permalink: /blog/:title.html
-timezone: Asia/Chongqing
+timezone: US/San Diego
 
 # Overriden by GitHub Pages: https://help.github.com/articles/using-jekyll-with-pages#configuring-jekyll
 safe: true
