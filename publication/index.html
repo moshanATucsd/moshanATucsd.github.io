@@ -37,7 +37,7 @@ category: publication
         {% for publication in site.data.publications %}
         <div class="row">
             <div class="four columns">
-                <img class="u-max-full-width" src="{{ "assets/img/publications/" | prepend: site.baseurl }}{{ publication.image }}">
+                <img class="u-max-full-width" src="{{ "/images/publication/" | prepend: site.baseurl }}{{ publication.image }}">
                     </div>
             <div class="eight columns abstract">
                 <div class="orange">{{ publication.title }}</div>
