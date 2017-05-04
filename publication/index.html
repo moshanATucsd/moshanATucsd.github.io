@@ -8,6 +8,7 @@ category: publication
 <h2>Conference Papers</h2>
 <div class="spacer"></div>
 
+<!--
  <div>
      <p>
      <img style="float: left; margin: 0px 15px 15px 0px;" src="/images/publication/robio15_overview.png" alt="Oxford Screenshot" width="280" align="middle" hspace="20">
@@ -26,5 +27,31 @@ category: publication
      <a href="https://www.youtube.com/watch?v=nGkQ-aSxugM">[Demo video]</a>
      <a href="https://github.com/shanmo/IMAV2014-Dataset">[Dataset]</a>
      </p>     
+</div>
+-->
+ 
+<!-- Publications -->
+<div class="section">
+    <div class="container">
+        <h2 class="orange">Publications</h2>
+        {% for publication in site.pulication.publications %}
+        <div class="row">
+            <div class="four columns">
+                <img class="u-max-full-width" src="{{ "assets/img/publications/" | prepend: site.baseurl }}{{ publication.image }}">
+                    </div>
+            <div class="eight columns abstract">
+                <div class="orange">{{ publication.title }}</div>
+                <div>{{ publication.authors | map: 'name' | join: ',  ' | markdownify }}</div>
+                <div class="blue">{{ publication.venue }}</div>
+                {% for link in publication.links %}
+                <a class="button" href="{{ link.url }}">
+                    {{ link.name }}
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+        <hr>
+        {% endfor %}
+    </div>
 </div>
 
