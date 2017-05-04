@@ -5,7 +5,6 @@ description: Mo Shan's publication
 category: publication
 ---
 
-<!--
 <h2>Conference Papers</h2>
 <div class="spacer"></div>
 
@@ -15,7 +14,7 @@ category: publication
      </p>
          
      <p>
-     <strong>M. Shan</strong>, Fei Wang, Feng Lin, Zhi Gao, Ya Z. Tang, Ben M. Chen. (2015).
+     <strong>Mo Shan</strong>, Fei Wang, Feng Lin, Zhi Gao, Ya Z. Tang, Ben M. Chen. (2015).
      Google Map Aided Visual Navigation for UAVs in GPS-denied Environment. In
      IEEE International Conference on Robotics and Biomimetics (ROBIO). Zhuhai, China.
      </p>
@@ -28,30 +27,7 @@ category: publication
      <a href="https://github.com/shanmo/IMAV2014-Dataset">[Dataset]</a>
      </p>     
 </div>
--->
+
  
-<!-- Publications -->
-<div class="section">
-    <div class="container">
-        <h2 class="orange">Publications</h2>
-        {% for publication in site.data.publications %}
-        <div class="row">
-            <div class="four columns">
-                <img class="u-max-full-width" src="{{ "/images/publication/" | prepend: site.baseurl }}{{ publication.image }}">
-                    </div>
-            <div class="eight columns abstract">
-                <div class="orange">{{ publication.title }}</div>
-                <div>{{ publication.authors | map: 'name' | join: ',  ' | markdownify }}</div>
-                <div class="blue">{{ publication.venue }}</div>
-                {% for link in publication.links %}
-                <a class="button" href="{{ link.url }}">
-                    {{ link.name }}
-                </a>
-                {% endfor %}
-            </div>
-        </div>
-        <hr>
-        {% endfor %}
-    </div>
-</div>
+
 
