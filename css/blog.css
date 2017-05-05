@@ -180,6 +180,11 @@ img {
   max-width: 100%;
 }
 
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
 .clear { clear: both; }
 
 .right {
