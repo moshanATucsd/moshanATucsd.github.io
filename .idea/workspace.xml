@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fab0f490-b668-4ecc-b301-4f2d7c63a5b3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pdfs/slide/A spatiotemporal model with visual attention for video classification.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pdfs/slide/cogs 260 slides.pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/index.html" afterPath="$PROJECT_DIR$/project/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publication/index.html" afterPath="$PROJECT_DIR$/publication/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/publication/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="708">
-              <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+            <state relative-caret-position="261">
+              <caret line="54" column="109" lean-forward="false" selection-start-line="54" selection-start-column="109" selection-end-line="54" selection-end-column="109" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#section#0;n#section#0;n#section#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#section#0;n#section#1;n#section#1;n#!!top" expanded="true" />
@@ -60,8 +57,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_includes/news.html" />
-        <option value="$PROJECT_DIR$/publication/index.html" />
         <option value="$PROJECT_DIR$/project/index.html" />
+        <option value="$PROJECT_DIR$/publication/index.html" />
       </list>
     </option>
   </component>
@@ -232,8 +229,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/publication/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+        <state relative-caret-position="261">
+          <caret line="54" column="109" lean-forward="false" selection-start-line="54" selection-start-column="109" selection-end-line="54" selection-end-column="109" />
           <folding>
             <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#section#0;n#section#0;n#section#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#section#0;n#section#1;n#section#1;n#!!top" expanded="true" />
