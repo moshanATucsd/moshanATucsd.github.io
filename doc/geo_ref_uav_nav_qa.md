@@ -1,0 +1,15 @@
+## Q
+
+* It appears that you are doing the image registration in every frame (or at least, in as many frames as you are computing optical flow), is that correct? I am wondering whether this is necessary, since drift is a cumulative problem could it be done less frequently.
+
+* Also you mention that SIFT is computationally expensive, but to my understanding HOG is just as demanding. Is it the avoidance of the detector phase that makes HOG more performant? Did you do much testing with descriptor-based approaches?
+
+* I am also wondering if you would be able to share the test data you used, and possibly the code for your algorithm. It would be very helpful as I will most assuredly want to compare my results to yours.
+
+## A
+
+* We are doing image registration per frame, but via a coarse-to-fine manner, to reduce computational burden. You can also do it less frequently, since what happens is that sometimes the registration does not work due to large illumination change, and we only use dead reckoning. So as a result the registration do not have to be performed for every frame.
+
+* As for SIFT vs HOG, HOG is more efficient since it is an image descriptor, but we need many SIFT descriptors for one image. We have tried descriptor based approach, and you can refer to the slides for more details. https://moshanatucsd.github.io/pdfs/presentation/Geo-referenced%20UAV%20Localization.pdf
+
+* The test data is https://github.com/shanmo/IMAV2014-Dataset, but we cannot share the code due to proprietry issue. For result comparison, you might want to check out this https://arxiv.org/pdf/1803.01549.pdf 
