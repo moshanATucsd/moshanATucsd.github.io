@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: post
 title: Geo-referenced UAV navigation Q&A
 categories:
-tags: 
----
+tags:
+--- -->
 
 ## Q
 
