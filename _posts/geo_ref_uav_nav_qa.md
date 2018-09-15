@@ -1,3 +1,10 @@
+---
+layout: post
+title: Geo-referenced UAV navigation Q&A
+categories:
+tags: 
+---
+
 ## Q
 
 * It appears that you are doing the image registration in every frame (or at least, in as many frames as you are computing optical flow), is that correct? I am wondering whether this is necessary, since drift is a cumulative problem could it be done less frequently.
@@ -12,4 +19,4 @@
 
 * As for SIFT vs HOG, HOG is more efficient since it is an image descriptor, but we need many SIFT descriptors for one image. We have tried descriptor based approach, and you can refer to the slides for more details. https://moshanatucsd.github.io/pdfs/presentation/Geo-referenced%20UAV%20Localization.pdf
 
-* The test data is https://github.com/shanmo/IMAV2014-Dataset, but we cannot share the code due to proprietry issue. For result comparison, you might want to check out this https://arxiv.org/pdf/1803.01549.pdf 
+* The test data is https://github.com/shanmo/IMAV2014-Dataset, but we cannot share the code due to proprietry issue. For result comparison, you might want to check out this https://arxiv.org/pdf/1803.01549.pdf
