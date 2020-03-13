@@ -17,7 +17,7 @@ I only have a MBP so I spent some time figuring out how to transfer the apk to a
 ![img](/images/posts/shoe2.jpg)
 ![img](/images/posts/shoe3.jpg)
 
-
+The [paper](https://arxiv.org/abs/2003.03522) is also released, and it says the EPnP details are in the supplementary. I am curious about how the authors define the 3D points of each object in the EPnP. 
 
 
 
