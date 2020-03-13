@@ -11,9 +11,11 @@ I followed the [docker installation](https://github.com/google/mediapipe/blob/ma
 
 The chair version is provided at [objectron](https://github.com/google/mediapipe/blob/master/mediapipe/docs/objectron_mobile_gpu.md). 
 
+I only have a MBP so I spent some time figuring out how to transfer the apk to android phone. Eventually I downloaded the google drive on the phone and install the apk from there. Here are the results, the poses are very accurate, but the speed is very slow. I used redmi note 7 and the video mode turned into picture mode...
 
-
-
+![img](/images/posts/shoe1.jpg)
+![img](/images/posts/shoe2.jpg)
+![img](/images/posts/shoe3.jpg)
 
 
 
