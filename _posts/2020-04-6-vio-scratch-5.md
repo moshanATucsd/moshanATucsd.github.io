@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIO from scratch 5-2, 5-3
+title: VIO from scratch: sliding window theory 
 categories:
 tags:
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIO from scratch 6-2
+title: VIO from scratch: Solver 
 categories:
 tags:
 ---
