@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIO from scratch: front end
+title: VIO from scratch front end
 categories:
 tags:
 ---

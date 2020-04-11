@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIO from scratch: sliding window coding 
+title: VIO from scratch sliding window coding 
 categories:
 tags:
 ---

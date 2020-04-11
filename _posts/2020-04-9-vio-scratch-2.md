@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIO from scratch: IMU
+title: VIO from scratch IMU
 categories:
 tags:
 ---
