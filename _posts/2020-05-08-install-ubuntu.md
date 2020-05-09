@@ -8,7 +8,7 @@ tags:
 ## Prepare the USB drive
 
 - [prepare the USB stick on Mac](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-macos#1-overview)
-- [prepare the USB stick on Ubuntu](http://ubuntuhandbook.org/index.php/2018/10/create-live-usb-ubuntu-18-04/)
+- [prepare the USB stick on Ubuntu](http://ubuntuhandbook.org/index.php/2018/10/create-live-usb-ubuntu-18-04/), basically download the release, use `Start Disk Creator` in ubuntu to create the installation stick. 
 
 ## Install
 
