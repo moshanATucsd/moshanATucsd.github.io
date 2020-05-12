@@ -32,4 +32,8 @@ tags:
 - for remote access via VNC, we need to setup the `VNC server` via [this post](https://computingforgeeks.com/how-to-install-vnc-server-on-ubuntu-18-04-lts/)
 - note that we also need to install `openssh`, refer to [this post](https://askubuntu.com/questions/739164/ssh-connection-refused)
 - on the local laptop (not the ubuntu remote), also need to use `ssh-keygen -R [hostname]`, refer to [this post](https://stackoverflow.com/questions/20840012/ssh-remote-host-identification-has-changed)
-- we can use VS code's `remote ssh` to edit the code using ssh  
+- we can use VS code's `remote ssh` to edit the code using ssh, refer to [this post](https://code.visualstudio.com/docs/remote/ssh#_getting-started)
+
+## Python environment
+
+- follow [this post](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart) to install anaconda 
