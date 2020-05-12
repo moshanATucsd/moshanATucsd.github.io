@@ -25,4 +25,11 @@ tags:
 ## NVIDIA
 
 - at this time after restart the resolution is not correct, we need to install nvidia driver via [this post](https://askubuntu.com/questions/1118621/cannot-install-nvidia-390-driver-ubuntu-18-04), [this post](https://www.mvps.net/docs/install-nvidia-drivers-ubuntu-18-04-lts-bionic-beaver-linux/)
-- after installing the drive, we can also install CUDA 
+- after installing the drive, we can also install CUDA
+
+## SSH
+
+- for remote access via VNC, we need to setup the `VNC server` via [this post](https://computingforgeeks.com/how-to-install-vnc-server-on-ubuntu-18-04-lts/)
+- note that we also need to install `openssh`, refer to [this post](https://askubuntu.com/questions/739164/ssh-connection-refused)
+- on the local laptop (not the ubuntu remote), also need to use `ssh-keygen -R [hostname]`, refer to [this post](https://stackoverflow.com/questions/20840012/ssh-remote-host-identification-has-changed)
+- we can use VS code's `remote ssh` to edit the code using ssh  
