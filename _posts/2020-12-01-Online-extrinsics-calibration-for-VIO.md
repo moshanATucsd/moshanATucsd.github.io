@@ -5,4 +5,4 @@ categories:
 tags:
 ---
 
-<center><embed src="Online extrinsics calibration for VIO.pdf" width="850" height="600"></center>
+<center><embed src="/pdfs/posts/Online extrinsics calibration for VIO.pdf" width="850" height="600"></center>
