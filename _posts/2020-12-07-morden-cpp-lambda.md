@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Morden C++ notes - exception
+title: Morden C++ notes - lambda
 categories:
 tags:
 ---
