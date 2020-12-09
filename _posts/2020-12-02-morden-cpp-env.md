@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morden C++ notes - build environment
-categories:
+categories: cpp 
 tags:
 ---
 

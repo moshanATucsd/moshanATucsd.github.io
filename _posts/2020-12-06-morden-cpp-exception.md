@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morden C++ notes - exception
-categories:
+categories: cpp 
 tags:
 ---
 

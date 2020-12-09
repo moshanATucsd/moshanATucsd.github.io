@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morden C++ notes - smart pointer
-categories:
+categories: cpp 
 tags:
 ---
 

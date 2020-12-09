@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morden C++ notes - auto and decltype
-categories:
+categories: cpp 
 tags:
 ---
 

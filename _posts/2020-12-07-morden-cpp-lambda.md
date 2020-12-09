@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morden C++ notes - lambda
-categories:
+categories: cpp 
 tags:
 ---
 

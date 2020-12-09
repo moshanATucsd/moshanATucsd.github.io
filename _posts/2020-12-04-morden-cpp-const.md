@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morden C++ notes - const, volatile, mutable
-categories:
+categories: cpp 
 tags:
 ---
 

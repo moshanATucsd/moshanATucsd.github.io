@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morden C++ notes - Class
-categories:
+categories: cpp 
 tags:
 ---
 
