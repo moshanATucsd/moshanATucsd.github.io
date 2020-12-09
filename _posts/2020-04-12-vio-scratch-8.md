@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VIO from scratch initialization
-categories:
+categories: vio 
 tags:
 ---
 

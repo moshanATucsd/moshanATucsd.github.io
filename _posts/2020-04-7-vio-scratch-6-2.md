@@ -1,7 +1,7 @@
 ---
 layout: post
-title: VIO from scratch solver 
-categories:
+title: VIO from scratch solver
+categories: vio 
 tags:
 ---
 

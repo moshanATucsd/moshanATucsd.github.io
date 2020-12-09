@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VIO from scratch front end
-categories:
+categories: vio 
 tags:
 ---
 

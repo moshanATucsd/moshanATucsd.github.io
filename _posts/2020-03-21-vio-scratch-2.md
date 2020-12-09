@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VIO from scratch IMU
-categories:
+categories: vio 
 tags:
 ---
 
