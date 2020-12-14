@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenVINS simulation feature measurements
-categories:
+categories: msckf 
 tags:
 ---
 

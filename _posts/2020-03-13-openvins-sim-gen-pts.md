@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenVINS simulation point generation
-categories:
+categories: msckf 
 tags:
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenVINS feature triangulation
-categories:
+categories: msckf 
 tags:
 ---
 
