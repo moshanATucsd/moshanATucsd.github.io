@@ -5,4 +5,4 @@ categories: cpp
 tags:
 ---
 
-<center><embed src="/pdfs/posts/Modern cpp 30 lecture — rvalue and move.pdf" width="850" height="600"></center>
+<center><embed src="/pdfs/posts/Modern cpp 30 lectures — rvalue and move.pdf" width="850" height="600"></center>
