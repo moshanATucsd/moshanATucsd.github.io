@@ -13,3 +13,5 @@ tags:
 <center><embed src="/pdfs/posts/Adversarial generation of continuous implicit shape representations.pdf" width="850" height="600"></center>
 
 <center><embed src="/pdfs/posts/Paper reading notes of adversarial generation of continuous implicit shape representations.pdf" width="850" height="600"></center>
+
+<center><embed src="/pdfs/posts/Code study for shape GAN — readme.pdf" width="850" height="600"></center>
