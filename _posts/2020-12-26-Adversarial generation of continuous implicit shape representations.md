@@ -11,3 +11,5 @@ tags:
 - [Presentation](https://www.youtube.com/watch?v=5jdf_8bCON0&feature=youtu.be&t=2636&ab_channel=EGEV2020)
 
 <center><embed src="/pdfs/posts/Adversarial generation of continuous implicit shape representations.pdf" width="850" height="600"></center>
+
+<center><embed src="/pdfs/posts/Paper reading notes of adversarial generation of continuous implicit shape representations.pdf" width="850" height="600"></center>
