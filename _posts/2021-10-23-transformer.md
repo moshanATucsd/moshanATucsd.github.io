@@ -5,6 +5,10 @@ categories: blog
 tags:
 ---
 
+- Notes for transformer theory  
+
+<center><embed src="/pdfs/posts/Notes-on-transformer.pdf" width="850" height="600"></center>
+
 - Notes for transformer implementation 
 
 <center><embed src="/pdfs/posts/Transformer-code-pytorch.pdf" width="850" height="600"></center>
